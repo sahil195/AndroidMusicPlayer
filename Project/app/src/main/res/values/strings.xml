@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RationAtMyDoor</string>
+    <string name="title_activity_music">Music Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="adele_hello">Playing now Hello by Adele</string>
+    <string name="music_library">Cart</string>
+    <string name="music_songs">Shop</string>
+    <string name="music_playlists">Home</string>
+    <string name="music_albums">Albums</string>
+    <string name="music_artists">Artists</string>
+    <string name="remote_services">Remote Services</string>
+    <string name="sound_cloud">Sound Cloud</string>
+    <string name="local_services">Local Services</string>
+    <string name="app_raw_folder">App raw folder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recently_played_songs">Our products</string>
+    <string name="hello">Someone Like You</string>
+    <string name="adele">product_name</string>
+    <string name="your_playlists">Products</string>
+    <string name="let_me_go">Let Me Go</string>
+    <string name="RationAtMyDoor">1</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\AndroidMusicPlayer\AndroidMusicPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Lenovo\Desktop\AndroidMusicPlayer\AndroidMusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ab72d983477e07b340d46b521cba4776599fe84b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\AndroidMusicPlayer\AndroidMusicPlayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f461f79787b49aa2b9d0f37d2a3ec35639e381e">
+        <dex dex="C:\Users\Lenovo\Desktop\AndroidMusicPlayer\AndroidMusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ff60177e2c856ade8e68728c3fe40f577723eba8\classes.dex" />
+    </item>
+
+</items>
